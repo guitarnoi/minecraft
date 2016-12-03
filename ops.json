@@ -1,0 +1,44 @@
+[
+  {
+    "uuid": "c0871ed8-a91d-3262-ac74-be0597a8f127",
+    "name": "Cl2am3l",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a01e3843-e521-3998-958a-f459800e4d11",
+    "name": "Player",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b1db0285-5d1d-377a-bcc9-58cbe2e53da6",
+    "name": "DEKD",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f6b9e66a-154b-3077-8639-97521baa7c8f",
+    "name": "cl2an3l",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "44743a3c-69ca-3b30-bcdf-986da107762e",
+    "name": "hee",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7d1a6aee-505a-3b15-9063-25bdab2ac308",
+    "name": "kamzumo",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d9bd61da-b3dd-3da5-a4ae-b97326124809",
+    "name": "assets",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  }
+]
